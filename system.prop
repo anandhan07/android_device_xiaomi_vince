@@ -1,9 +1,0 @@
-#
-# system.prop for vince
-#
-
-# Spark-OS
-ro.spark.device.name=Redmi 5 Plus
-ro.spark.group.url=https://t.me/anandhansprojects_chat
-ro.spark.maintainer=Anandhasayanan P
-ro.spark.maintainer.username=anandhan07x
