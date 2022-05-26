@@ -16,6 +16,8 @@
 
 $(call inherit-product, vendor/xiaomi/vince/vince-vendor.mk)
 
+PRODUCT_BROKEN_VERIFY_USES_LIBRARIES := true
+
 # Shipping API
 PRODUCT_SHIPPING_API_LEVEL := 25
 
