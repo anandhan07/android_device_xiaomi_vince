@@ -151,9 +151,9 @@ PRODUCT_PACKAGES += \
     libmm-qcamera \
     libdng_sdk.vendor
 
-# GrapheneCamera
+# Camera app (GrapheneOS)
 PRODUCT_PACKAGES += \
-    GrapheneCamera
+    Camera
 
 # Consumerir
 PRODUCT_PACKAGES += \
